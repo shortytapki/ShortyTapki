@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShortyTapki
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning JS/HTML/CSS
-- 💞️ I’m looking to collaborate on ... can't really tell for now ...
+- 🌱 I’m currently learning React
 - 📫 How to reach me : tg - @shortytapki
 
 <!---
