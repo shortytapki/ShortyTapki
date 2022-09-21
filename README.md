@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://disk.yandex.ru/i/A1nj9Y3oAmevCA" width="100"/>
+  <img src="https://ibb.co/YbDp6yK" width="100"/>
 </div>
 
 - 📫 How to reach me **elugelab123@gmail.com**
